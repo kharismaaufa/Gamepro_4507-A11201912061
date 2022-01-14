@@ -2,5 +2,5 @@ Nama	: Kharisma Aufa Ramadhani
 NIM	: A11.2019.12061
 Kelas	: A11.4507
 UTS	: Game Programming
-LINK	: https://github.com/kharismaaufa/Gamepro_4507-A11201912061/tree/main/UTS
+LINK	: https://github.com/kharismaaufa/Gamepro_4507-A11201912061/tree/main/UAS
 LINK	: https://youtu.be/J_qGLtDL5r0
