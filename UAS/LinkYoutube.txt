@@ -3,13 +3,4 @@ NIM	: A11.2019.12061
 Kelas	: A11.4507
 UTS	: Game Programming
 LINK	: https://github.com/kharismaaufa/Gamepro_4507-A11201912061/tree/main/UTS
-LINK	: https://youtu.be/NyRXFdcY8rY
-
-
-
-UTS  - A11.4507 -  A11.2019.12061 - Kharisma Aufa R - UDINUS
-Kharisma Aufa Ramadhani
-A11.2019.12061
-A11.4507
-UTS Game Programming
-https://github.com/kharismaaufa/Gamepro_4507-A11201912061/tree/main/UTS
+LINK	: https://youtu.be/J_qGLtDL5r0
